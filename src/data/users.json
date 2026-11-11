@@ -1,0 +1,52 @@
+[
+  {
+    "id": "user-1",
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma@example.com",
+    "phone": "+91 98200 11223",
+    "password": "demo123",
+    "role": "user",
+    "bloodGroup": "O+",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "pincode": "400001",
+    "isDonor": true,
+    "donorId": "donor-1",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+    "bio": "Physician & voluntary blood donor in Mumbai. Committed to helping patients in critical need.",
+    "phoneVisibility": "request_only"
+  },
+  {
+    "id": "user-2",
+    "name": "Pooja Deshmukh",
+    "email": "pooja.d@example.com",
+    "phone": "+91 98902 33119",
+    "password": "demo123",
+    "role": "donor",
+    "bloodGroup": "A+",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "pincode": "411004",
+    "isDonor": true,
+    "donorId": "donor-2",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&q=80",
+    "bio": "Software developer in Shivaji Nagar, Pune. Regular blood donor.",
+    "phoneVisibility": "visible"
+  },
+  {
+    "id": "user-3",
+    "name": "Rajesh Patel",
+    "email": "rajesh.patel@example.com",
+    "phone": "+91 98250 11982",
+    "password": "demo123",
+    "role": "patient",
+    "bloodGroup": "B+",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "pincode": "380009",
+    "isDonor": false,
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "bio": "Patient coordinator seeking voluntary donors for scheduled transfusions.",
+    "phoneVisibility": "request_only"
+  }
+]

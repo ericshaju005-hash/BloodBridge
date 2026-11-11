@@ -1,0 +1,7 @@
+{
+  "name": "BloodBridge — India-Wide Blood Donor Discovery",
+  "description": "Connecting Donors. Supporting Lives. India-wide voluntary blood donor discovery and coordination platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "notif-1",
+    "userId": "user-2",
+    "title": "New Blood Donation Request",
+    "message": "Aarav Deshmukh requested 1 unit of A+ blood at Jehangir Hospital, Pune.",
+    "type": "request",
+    "read": false,
+    "timestamp": "2026-11-08T15:20:00Z",
+    "link": "/dashboard"
+  },
+  {
+    "id": "notif-2",
+    "userId": "user-1",
+    "title": "Request Accepted",
+    "message": "Dr. Rajesh Kulkarni accepted your emergency donation request (REQ-2026-8812).",
+    "type": "accepted",
+    "read": false,
+    "timestamp": "2026-11-08T10:15:00Z",
+    "link": "/dashboard"
+  },
+  {
+    "id": "notif-3",
+    "userId": "user-1",
+    "title": "Donation Completed",
+    "message": "Emergency trauma request REQ-2026-6519 was marked as completed. Thank you for coordinating!",
+    "type": "completed",
+    "read": true,
+    "timestamp": "2026-11-06T19:45:00Z",
+    "link": "/dashboard"
+  },
+  {
+    "id": "notif-4",
+    "userId": "user-2",
+    "title": "Donor Profile Verified",
+    "message": "Your voluntary donor profile was reviewed in demo mode and is active.",
+    "type": "system",
+    "read": true,
+    "timestamp": "2026-11-05T12:00:00Z",
+    "link": "/profile"
+  }
+]
